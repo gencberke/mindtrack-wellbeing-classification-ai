@@ -24,16 +24,17 @@ Residual Network (Skip Connections)
 Attention Network (Feature Importance)
 Ensemble Model (Weighted Combination)
 
-Uses:
-
+📊 Model Evaluation
 5-Fold Cross Validation
 Accuracy, Precision, Recall, F1-score
 Confusion Matrix & Radar Charts
-🔹 3. User Tracking System
+
+🧠 User Tracking System
 Daily data entry (sleep, stress, mood, etc.)
 JSON-based local storage
 Weekly analytics & visualization
 GPT-powered insights
+
 🗂️ Project Structure
 mindtrack-ai/
 │
@@ -50,6 +51,7 @@ mindtrack-ai/
 ├── .env.example
 ├── requirements.txt
 └── README.md
+
 ⚙️ Installation
 git clone https://github.com/yourusername/mindtrack-ai.git
 cd mindtrack-ai
